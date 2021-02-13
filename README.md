@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @iratxeMoya
+- 👀 I’m interested in web development, AI and mobile applications
+- 🌱 I’m currently learning about Deep learning and mobile app development
+- 📫 How to reach me:
+  - Linkedin: https://www.linkedin.com/in/iratxe-moya-89410617b/
+  - E-mail: iratxe.moya@gmail.com
